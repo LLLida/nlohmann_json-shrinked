@@ -1,0 +1,5 @@
+#+AUTHOR: Adil Mokhammad
+#+EMAIL: 0adilmohammad0@gmail.com
+#+LANGUAGE: en
+
+Original https://github.com/nlohmann/json is too bloated, by the moment of writing this file it's size 250MB.
